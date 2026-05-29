@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MILORD-q15S.aternos.me:40894",
+    "ip": "MILORD-q15S.aternos.me",
     "port": 40894,
     "version": "1.21.11",
     "try-creative": false
